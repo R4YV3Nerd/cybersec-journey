@@ -30,6 +30,8 @@
 
 #### Tools Used During the Journey:
 
++ **kali Linux tools**: (includes all the tools that usually comes with the distro) -> [mapping of the tools](https://www.kali.org/tools/)
+
 + **nmap**: (Network Mapper)  
 
 Nmap is a free and open-source utility for network discovery and security auditing. It is used to discover hosts and services on a computer network by sending packets and analyzing the responses.
