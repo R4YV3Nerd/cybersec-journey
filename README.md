@@ -1,6 +1,6 @@
 <div align="center">
 
-### CyberSec - Roadmap:
+## CyberSec - Roadmap:
 
 </div>
 
@@ -8,7 +8,31 @@
   -> First one was during the integration week of my school (1337).  
     -> Second one: 8 March HTB UM6P-1337 CTF.  
 
-+ **Useful Platforms**:  
+### What is a CTF?  
+Capture the flag or a CTF is simply a competition where you do some sort of tasks  where you usually have to look for a flag that looks like : `HTB={this-is-the-flag}`, once you get that flag you simply have to submit it to the CTF platform, but what's important is what you learn during that journey while looking for the flag either on some sort of code or while diving into a machine or even attacking the other teams' server.. and that depends on the style of the CTF.
+
+### CTFs Styles:
+**Jeopardy-Style CTF:** Teams solve individual challenges from various categories to earn points. No interaction between teams. A Jeopardy CTF usually includes the following domains:
+
+1. **Cryptography**: Breaking or solving ciphers and encryption schemes.
+2. **Forensics**: Analyzing digital artifacts like files, memory dumps, or network traffic.
+3. **Web Security**: Exploiting vulnerabilities in web applications (e.g., SQL injection, XSS).
+4. **Reverse Engineering**: Analyzing compiled programs to understand their behavior or extract flags.
+5. **Pwn**: Exploiting vulnerabilities in binary executables or system processes.
+6. **Steganography**: Finding hidden messages in images, audio, or other media.
+7. **Miscellaneous**: Logic puzzles, math challenges, or any other non-technical tasks.
+8. **Osint**: 
+
+**Attack-Defense CTF:** Teams defend their own servers while attacking others to steal flags and earn points.
+
+**Mixed CTF:** Combines Jeopardy-style challenges with attack-defense elements, requiring teams to solve challenges and protect/attack servers.
+
+<div align="center">
+
+![CTF-Framework](./resources/images/CTF-based-framework-structure.png)
+</div>
+
+### Useful Platforms:  
   -> [HTB (HackTheBox)](https://www.hackthebox.com/)  
   -> [TryHackMe](https://tryhackme.com/)  
   -> [rootme](https://www.root-me.org/)  
@@ -26,11 +50,11 @@
   -> [Exercism](https://exercism.org/)  
   -> [adventofcode](https://adventofcode.com/)  
   ->   ...  
----
 
-#### Tools Used During the Journey:
 
-+ **kali Linux tools**: (includes all the tools that usually comes with the distro) -> [mapping of the tools](https://www.kali.org/tools/)
+### Useful Tools:
+
++ **kali Linux tools**: This website includes all the tools that usually comes with the distro -> https://www.kali.org/tools/  
 
 + **nmap**: (Network Mapper)  
 
@@ -50,12 +74,10 @@ Metasploit is a powerful penetration testing framework that helps security profe
 
 + **curl**: (Data Transfer Tool)  
 
-Curl is a command-line tool used for transferring data using various network protocols, including HTTP, FTP, and others. It's commonly used to test APIs, fetch web pages, or interact with online resources from the terminal.
+Curl is a command-line tool used for transferring data using various he websitm the terminal.
 
 + **ssh**: (Secure Shell)  
 
 SSH is a cryptographic network protocol used to securely access remote systems over an insecure network. It enables secure communication, file transfers, and remote command execution.
 
-+ **Burp Suite**: (Web Vulnerability Scanner)  
-
-Burp Suite is a popular security testing tool for web applications. It provides a range of tools to identify and exploit vulnerabilities in web apps, including an intercepting proxy, a web crawler, and a vulnerability scanner.
++ **Burp Suite**: (Web Vulnerabilhe websitilities in web apps, including an intercepting proxy, a web crawler, and a vulnerability scanner.he websit
