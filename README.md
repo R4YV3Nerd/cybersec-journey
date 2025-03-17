@@ -1,17 +1,17 @@
 <div align="center">
 
-# CyberSec - Roadmap:
+# CyberSec - Roadmap
 
 </div>
 
-#### Starting && participating in random CTFs online and offline.  (my own journey)
+#### Starting && participating in random CTFs online and offline  (my own journey)
   -> First one was during the integration week of my school (1337) : {date???}   
   -> Second one: 8 March HTB UM6P-1337 CTF.  
 
-### What is a CTF?  
+### [What is a CTF?](https://ctftime.org/ctf-wtf/)
 Capture the flag or a CTF is simply a competition where you do some sort of tasks  where you usually have to look for a flag that looks like : `HTB={this-is-the-flag}`, once you get that flag you simply have to submit it to the CTF platform, but what's important is what you learn during that journey while looking for the flag either on some sort of code or while diving into a machine or even attacking the other teams' server.. and that depends on the style of the CTF.
 
-### CTFs Styles:
+### CTFs Styles
 **Jeopardy-Style CTF:** Teams solve individual challenges from various categories to earn points. No interaction between teams. A Jeopardy CTF usually includes the following domains:
 
 1. **Cryptography**: Breaking or solving ciphers and encryption schemes.
@@ -32,7 +32,7 @@ Capture the flag or a CTF is simply a competition where you do some sort of task
 ![CTF-Framework](./resources/images/CTF-based-framework-structure.png)
 </div>
 
-### Useful Platforms:  
+### Useful Platforms
   -> [HTB (HackTheBox)](https://www.hackthebox.com/)  
   -> [TryHackMe](https://tryhackme.com/)  
   -> [learnCTF](https://ctflearn.com/)   
@@ -51,13 +51,35 @@ Capture the flag or a CTF is simply a competition where you do some sort of task
   -> [ohmygit](https://ohmygit.org/)  
   -> [Exercism](https://exercism.org/)  
   -> [adventofcode](https://adventofcode.com/)  
-  -> **also discord is very important!**   
-  -> ...  
+  -> [TheLinuxFoundation](https://training.linuxfoundation.org/)   
+  -> [Hackmyvm](https://hackmyvm.eu/)   
+  -> *also discord servers are very very veeeeery important!*   
+  -> ...  *(this is being updated from time to time)*
+
+### Online Courses to take +  digital badges/certificates
+
++ [C for Everyone: Programming Fundamentals
+](https://www.coursera.org/learn/c-for-everyone)  
++ [Programming Languages, Part C
+](https://www.coursera.org/learn/programming-languages-part-c)   
++ [Hands-on Introduction to Linux Commands and Shell Scripting
+](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting)  
++ [TheLinuxFoundation](https://training.linuxfoundation.org/) learning path.. 
++ ... (this is being updated from time to time)
 
 
-### Useful Tools:
+### More... (blogs, articles && repositories...)
++ https://blog.g0tmi1k.com/  
++ https://www.isss.io/resources.html  
++ https://github.com/utisss/  
++ [ISSS official YT channel](https://www.youtube.com/@informationsystemssecurity1034/videos)   
++ [ISSS official website](https://www.isss.io/)   
++ [ISSS official github acc](https://github.com/utisss)   
++ ... *(this is being updated from time to time)*
 
-+ **kali Linux tools**: This website includes all the tools that usually comes with the distro -> https://www.kali.org/tools/  
+### Useful Tools
+
++ **kali Linux tools**: [This website](ttps://www.kali.org/tools/  ) includes all the tools that usually comes with the distro.
 
 + **nmap**: (Network Mapper)  
 
@@ -85,3 +107,6 @@ SSH is a cryptographic network protocol used to securely access remote systems o
 
 + **Burp Suite**: (Web Vulnerabilhe websitilities in web apps, including an intercepting proxy, a web crawler, and a vulnerability scanner.he websit
 
+### (Bonus) Nerdy things to check out ;)
++ https://www.texasacm.org/AtoZ
++ ... *(this is being updated from time to time)*
