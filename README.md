@@ -4,9 +4,9 @@
 
 </div>
 
-+ Starting && participating in random CTFs online and offline.  
-  -> First one was during the integration week of my school (1337).  
-    -> Second one: 8 March HTB UM6P-1337 CTF.  
+#### Starting && participating in random CTFs online and offline.  (my own journey)
+  -> First one was during the integration week of my school (1337) : {date???}   
+  -> Second one: 8 March HTB UM6P-1337 CTF.  
 
 ### What is a CTF?  
 Capture the flag or a CTF is simply a competition where you do some sort of tasks  where you usually have to look for a flag that looks like : `HTB={this-is-the-flag}`, once you get that flag you simply have to submit it to the CTF platform, but what's important is what you learn during that journey while looking for the flag either on some sort of code or while diving into a machine or even attacking the other teams' server.. and that depends on the style of the CTF.
@@ -21,7 +21,7 @@ Capture the flag or a CTF is simply a competition where you do some sort of task
 5. **Pwn**: Exploiting vulnerabilities in binary executables or system processes.
 6. **Steganography**: Finding hidden messages in images, audio, or other media.
 7. **Miscellaneous**: Logic puzzles, math challenges, or any other non-technical tasks.
-8. **Osint**: 
+8. **Osint**:  challenges in CTFs involve gathering information from publicly available sources like websites and social media, testing skills in data extraction and analysis... (my fav one).
 
 **Attack-Defense CTF:** Teams defend their own servers while attacking others to steal flags and earn points.
 
@@ -35,6 +35,8 @@ Capture the flag or a CTF is simply a competition where you do some sort of task
 ### Useful Platforms:  
   -> [HTB (HackTheBox)](https://www.hackthebox.com/)  
   -> [TryHackMe](https://tryhackme.com/)  
+  -> [learnCTF](https://ctflearn.com/)   
+  -> [OverTheWire](https://overthewire.org/wargames/)   
   -> [rootme](https://www.root-me.org/)  
   -> [HackThisSite](https://www.hackthissite.org/)  
   -> [Ringzer0team](http://ringzer0ctf.com/)  
@@ -49,7 +51,8 @@ Capture the flag or a CTF is simply a competition where you do some sort of task
   -> [ohmygit](https://ohmygit.org/)  
   -> [Exercism](https://exercism.org/)  
   -> [adventofcode](https://adventofcode.com/)  
-  ->   ...  
+  -> **also discord is very important!**   
+  -> ...  
 
 
 ### Useful Tools:
@@ -81,3 +84,4 @@ Curl is a command-line tool used for transferring data using various he websitm 
 SSH is a cryptographic network protocol used to securely access remote systems over an insecure network. It enables secure communication, file transfers, and remote command execution.
 
 + **Burp Suite**: (Web Vulnerabilhe websitilities in web apps, including an intercepting proxy, a web crawler, and a vulnerability scanner.he websit
+
