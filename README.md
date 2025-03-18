@@ -65,7 +65,7 @@ Capture the flag or a CTF is simply a competition where you do some sort of task
 + [Hands-on Introduction to Linux Commands and Shell Scripting
 ](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting)  
 + [TheLinuxFoundation](https://training.linuxfoundation.org/) learning path.. 
-+ ... (this is being updated from time to time)
++ ... *(this is being updated from time to time)*
 
 
 ### More... (blogs, articles && repositories...)
