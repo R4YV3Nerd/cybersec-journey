@@ -1,7 +1,7 @@
 <div align="center">
 
+*(this is being updated from time to time)*
 # CyberSec - Roadmap
-
 </div>
 
 #### Starting && participating in random CTFs online and offline  (my own journey)
@@ -53,8 +53,9 @@ Capture the flag or a CTF is simply a competition where you do some sort of task
   -> [adventofcode](https://adventofcode.com/)  
   -> [TheLinuxFoundation](https://training.linuxfoundation.org/)   
   -> [Hackmyvm](https://hackmyvm.eu/)   
-  -> *also discord servers are very very veeeeery important!*   
-  -> ...  *(this is being updated from time to time)*
+  -> [OliCyber.it](https://training.olicyber.it/)  *sponsored by the CyberSec National Lab && Cisco*  
+  -> also discord servers are very very veeeeery important!   
+  -> ...  
 
 ### Online Courses to take +  digital badges/certificates
 
@@ -65,7 +66,7 @@ Capture the flag or a CTF is simply a competition where you do some sort of task
 + [Hands-on Introduction to Linux Commands and Shell Scripting
 ](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting)  
 + [TheLinuxFoundation](https://training.linuxfoundation.org/) learning path.. 
-+ ... *(this is being updated from time to time)*
++ ...
 
 
 ### More... (blogs, articles && repositories...)
@@ -75,7 +76,7 @@ Capture the flag or a CTF is simply a competition where you do some sort of task
 + [ISSS official YT channel](https://www.youtube.com/@informationsystemssecurity1034/videos)   
 + [ISSS official website](https://www.isss.io/)   
 + [ISSS official github acc](https://github.com/utisss)   
-+ ... *(this is being updated from time to time)*
++ ... 
 
 ### Useful Tools
 
@@ -109,4 +110,4 @@ SSH is a cryptographic network protocol used to securely access remote systems o
 
 ### (Bonus) Nerdy things to check out ;)
 + https://www.texasacm.org/AtoZ
-+ ... *(this is being updated from time to time)*
++ ... 
