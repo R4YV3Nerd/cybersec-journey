@@ -1,7 +1,7 @@
 <div align="center">
 
 *(This is being updated periodically ⏳)*
-# CyberSec - Roadmap
+# CyberSec - Journey
 </div>
 
 #### Starting && participating in random CTFs online and offline 🏁 
