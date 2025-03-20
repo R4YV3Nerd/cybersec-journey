@@ -105,7 +105,7 @@ Curl is a command-line tool used for transferring data using various he websitm 
 
 SSH is a cryptographic network protocol used to securely access remote systems over an insecure network. It enables secure communication, file transfers, and remote command execution.
 
-+ **Burp Suite**: (Web Vulnerabilhe websitilities in web apps, including an intercepting proxy, a web crawler, and a vulnerability scanner.he websit
++ **Burp Suite**: (Web Vulnerabilhe websitilities in web apps, including an intercepting proxy, a web crawler, and a vulnerability scanner.
 
 ### 📌 (Bonus) Nerdy things to check out 
 + https://www.texasacm.org/AtoZ
