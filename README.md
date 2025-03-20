@@ -20,7 +20,7 @@ Capture the flag or a CTF is simply a competition where you do some sort of task
 5. **Pwn**: Exploiting vulnerabilities in binary executables or system processes.
 6. **Steganography**: Finding hidden messages in images, audio, or other media.
 7. **Miscellaneous**: Logic puzzles, math challenges, or any other non-technical tasks.
-8. **Osint**:  challenges in CTFs involve gathering information from publicly available sources like websites and social media, testing skills in data extraction and analysis... (my fav one).
+8. **Osint**:  challenges in CTFs involve gathering information from publicly available sources like websites and social media, testing skills in data extraction and analysis...
 
 **Attack-Defense CTF:** Teams defend their own servers while attacking others to steal flags and earn points.
 
