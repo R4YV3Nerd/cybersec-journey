@@ -53,6 +53,7 @@ Capture the flag or a CTF is simply a competition where you do some sort of task
   -> [TheLinuxFoundation](https://training.linuxfoundation.org/)   
   -> [Hackmyvm](https://hackmyvm.eu/)   
   -> [OliCyber.it](https://training.olicyber.it/)  *sponsored by the CyberSec National Lab && Cisco*  
+  -> [hackthissite](https://www.hackthissite.org/)    
   -> also discord servers are very very veeeeery important!   
   -> ...  
 
